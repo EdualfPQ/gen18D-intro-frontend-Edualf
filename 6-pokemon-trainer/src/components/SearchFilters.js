@@ -1,0 +1,11 @@
+import React from "react";
+
+function SearchFilters() {
+    return (
+        <div>
+            <span>Componente SearchFilters!</span>
+        </div>
+    );
+  }
+  
+  export default SearchFilters;
